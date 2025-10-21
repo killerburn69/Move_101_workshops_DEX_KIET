@@ -28,8 +28,8 @@ Add your code to:
 
 ## 📅 Completion
 
-- **Submission Date**: 
-- **Status**: ⏳ Not Started / 🚧 In Progress / ✅ Completed
+- **Submission Date**: 21/10/2025
+- **Status**: ✅ Completed
 
 sui client call --package 0x686df6ae2772db19f10f288e35f0a0d774190ea36fbcca60fe91a413b992bf5e \
   --module SD \
