@@ -11,7 +11,7 @@
 ## 📊 Progress
 
 - [x] Module 1: Explore Frontend
-- [ ] Module 2: Create Token
+- [x] Module 2: Create Token
 - [ ] Module 3: Swap Contract
 - [ ] Module 4: Connect Frontend
 - [ ] Module 5: Deploy to Production
